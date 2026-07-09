@@ -8,10 +8,8 @@ import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 
 import { NAVIGATION } from "@/lib/constants";
-import { usePathname } from "next/navigation";
 
 export default function MobileMenu() {
-  const pathname = usePathname();
   return (
     <Sheet>
       <SheetTrigger

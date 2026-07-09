@@ -6,34 +6,6 @@ import { FaInstagram } from "react-icons/fa6";
 import { Button } from "@/components/ui/button";
 import { getContact } from "@/lib/content";
 
-const rows = [
-  {
-    key: "address",
-    title: "Visit Studio",
-    icon: MapPin,
-  },
-  {
-    key: "phone",
-    title: "Call Us",
-    icon: Phone,
-  },
-  {
-    key: "email",
-    title: "Email",
-    icon: Mail,
-  },
-  {
-    key: "instagram",
-    title: "Instagram",
-    icon: FaInstagram,
-  },
-  {
-    key: "hours",
-    title: "Working Hours",
-    icon: Clock3,
-  },
-];
-
 export default function ContactContent() {
   const contact = getContact();
 

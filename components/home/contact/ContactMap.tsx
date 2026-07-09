@@ -13,7 +13,7 @@ export default function ContactMap() {
         <h3 className="mt-2 text-2xl font-semibold">Find Us</h3>
 
         <p className="mt-2 text-neutral-600">
-          We'd love to welcome you to our studio.
+          We&#39;d love to welcome you to our studio.
         </p>
       </div>
 
