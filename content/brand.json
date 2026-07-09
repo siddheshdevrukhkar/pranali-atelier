@@ -1,0 +1,8 @@
+{
+  "name": "Pranali Atelier",
+  "tagline": "Luxury Nail Boutique",
+  "logo": "/images/logo/logo.svg",
+  "logoDark": "/images/logo/logo-dark.svg",
+  "favicon": "/images/logo/favicon.ico",
+  "logoFallback": "/images/logo/logo.png"
+}

@@ -1,0 +1,35 @@
+import about from "@/content/about.json";
+import contact from "@/content/contact.json";
+import gallery from "@/content/gallery.json";
+import home from "@/content/home.json";
+import pricelist from "@/content/pricelist.json";
+import whyChooseUs from "@/content/why-choose-us.json";
+import services from "@/content/services.json";
+import settings from "@/content/settings.json";
+import brand from "@/content/brand.json";
+import testimonials from "@/content/testimonials.json";
+import footer from "@/content/footer.json";
+import { Brand } from "@/types/brand";
+import type { HeroContent } from "@/types/home";
+import { ServicesContent } from "./services";
+import { GalleryContent } from "@/types/gallery";
+import { PriceListContent } from "@/types/pricelist";
+import { WhyChooseContent } from "@/types/why-choose-us";
+import { TestimonialsContent } from "@/types/testimonials";
+import { ContactContent } from "@/types/contact";
+import { FooterContent } from "@/types/footer";
+
+export const getHome = () => home;
+export const getAbout = () => about;
+export const getSettings = () => settings;
+export const getAnnouncement = () => settings.announcement;
+
+export const getHero = (): HeroContent => home.hero;
+export const getBrand = (): Brand => brand;
+export const getServices = (): ServicesContent => services;
+export const getGallery = (): GalleryContent => gallery;
+export const getPriceList = (): PriceListContent => pricelist;
+export const getWhyChooseUs = (): WhyChooseContent => whyChooseUs;
+export const getTestimonials = (): TestimonialsContent => testimonials;
+export const getContact = (): ContactContent => contact;
+export const getFooter = (): FooterContent => footer;

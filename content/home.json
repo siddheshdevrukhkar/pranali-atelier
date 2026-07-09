@@ -1,0 +1,25 @@
+{
+  "hero": {
+    "eyebrow": "Luxury Nail Studio",
+    "title": "Where Elegance Meets Perfect Nails",
+    "description": "Discover premium nail artistry, luxurious treatments, and personalized care designed to make every visit unforgettable.",
+    "badge": {
+      "icon": "⭐",
+      "text": "Rated 4.9 by 500+ Happy Clients"
+    },
+    "primaryButton": {
+      "label": "Book Appointment",
+      "href": "/contact"
+    },
+    "secondaryButton": {
+      "label": "View Gallery",
+      "href": "/gallery"
+    },
+    "images": {
+      "main": "/images/hero/hero-main.png",
+      "circle1": "/images/hero/hero-circle-1.png",
+      "circle2": "/images/hero/hero-circle-2.png",
+      "circle3": "/images/hero/hero-circle-3.png"
+    }
+  }
+}

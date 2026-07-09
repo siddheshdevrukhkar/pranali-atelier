@@ -1,0 +1,47 @@
+{
+  "eyebrow": "Services",
+  "title": "What I Provide",
+  "description": "From timeless manicures to luxury nail artistry, every service is designed to enhance your style with precision and care.",
+  "categories": [
+    {
+      "title": "Manicure Services",
+      "icon": "sparkles",
+      "services": [
+        "Classic Manicure",
+        "Gel Polish Manicure",
+        "French Manicure",
+        "Nail Strengthening"
+      ]
+    },
+    {
+      "title": "Nail Extensions",
+      "icon": "gem",
+      "services": [
+        "Acrylic Nails",
+        "Soft Gel Tips",
+        "Builder Gel",
+        "PolyGel Extensions"
+      ]
+    },
+    {
+      "title": "Nail Art & Design",
+      "icon": "palette",
+      "services": [
+        "3D Nail Art",
+        "Chrome Finish",
+        "Ombre Nails",
+        "Marble Designs"
+      ]
+    },
+    {
+      "title": "Luxury Nail Care",
+      "icon": "heart",
+      "services": [
+        "Cuticle Treatment",
+        "Hand Spa",
+        "Paraffin Wax",
+        "Hydration Therapy"
+      ]
+    }
+  ]
+}

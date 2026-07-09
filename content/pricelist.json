@@ -1,0 +1,132 @@
+{
+  "eyebrow": "Price List",
+  "title": "Luxury Nail Services",
+  "description": "Transparent pricing crafted with premium products, hygienic practices, and personalized care.",
+  "categories": [
+    {
+      "title": "Gel Nail Extensions",
+      "icon": "Sparkles",
+      "description": "Elegant and lightweight gel enhancements for a natural, glossy finish.",
+      "items": [
+        { "name": "Gel Nail Extensions", "price": "1,799" },
+        { "name": "Gel Overlay", "price": "1,299" },
+        { "name": "Gel Refill", "price": "1,199" },
+        { "name": "Gel Removal", "price": "399" },
+        { "name": "Gel Repair (Per Nail)", "price": "199" },
+        { "name": "Gel Color Change", "price": "999" }
+      ]
+    },
+    {
+      "title": "Acrylic Extensions",
+      "icon": "Gem",
+      "description": "Strong and durable acrylic nails for long-lasting beauty.",
+      "items": [
+        { "name": "Full Acrylic Set", "price": "1,999" },
+        { "name": "Acrylic Overlay", "price": "1,499" },
+        { "name": "Acrylic Refill", "price": "1,399" },
+        { "name": "Acrylic Removal", "price": "499" },
+        { "name": "Acrylic Repair (Per Nail)", "price": "249" },
+        { "name": "Acrylic Color Change", "price": "1,099" }
+      ]
+    },
+    {
+      "title": "PolyGel Extensions",
+      "icon": "Diamond",
+      "description": "Premium lightweight extensions combining gel flexibility with acrylic strength.",
+      "items": [
+        { "name": "PolyGel Extensions", "price": "2,199" },
+        { "name": "PolyGel Overlay", "price": "1,699" },
+        { "name": "PolyGel Refill", "price": "1,599" },
+        { "name": "PolyGel Removal", "price": "499" },
+        { "name": "PolyGel Repair", "price": "249" }
+      ]
+    },
+    {
+      "title": "Soft Gel Tips",
+      "icon": "Flower2",
+      "description": "Natural-looking extensions with exceptional comfort and flexibility.",
+      "items": [
+        { "name": "Soft Gel Tips", "price": "1,699" },
+        { "name": "Soft Gel Removal", "price": "399" },
+        { "name": "Soft Gel Refill", "price": "1,199" },
+        { "name": "Soft Gel Repair", "price": "199" }
+      ]
+    },
+    {
+      "title": "Gel Polish",
+      "icon": "Paintbrush",
+      "description": "Long-lasting chip-resistant color with brilliant shine.",
+      "items": [
+        { "name": "Gel Polish Application", "price": "799" },
+        { "name": "Gel Polish Change", "price": "999" },
+        { "name": "Gel Polish Removal", "price": "299" },
+        { "name": "French Gel Polish", "price": "1,099" },
+        { "name": "Cat Eye Gel Polish", "price": "1,299" },
+        { "name": "Chrome Gel Polish", "price": "1,399" }
+      ]
+    },
+    {
+      "title": "Nail Art",
+      "icon": "Palette",
+      "description": "Handcrafted nail art customized for every occasion.",
+      "items": [
+        { "name": "Minimal Nail Art", "price": "299+" },
+        { "name": "French Tips", "price": "399+" },
+        { "name": "Chrome Finish", "price": "399+" },
+        { "name": "Cat Eye Effect", "price": "499+" },
+        { "name": "Ombre Nails", "price": "499+" },
+        { "name": "Glitter Nails", "price": "399+" },
+        { "name": "Foil Art", "price": "499+" },
+        { "name": "Marble Design", "price": "599+" },
+        { "name": "3D Nail Art", "price": "699+" },
+        { "name": "Character Nail Art", "price": "899+" },
+        { "name": "Luxury Nail Art", "price": "999+" },
+        { "name": "Custom Bridal Nail Art", "price": "1,499+" }
+      ]
+    },
+    {
+      "title": "Manicure & Nail Care",
+      "icon": "Heart",
+      "description": "Luxury nail care treatments that nourish and restore healthy nails.",
+      "items": [
+        { "name": "Classic Manicure", "price": "699" },
+        { "name": "Spa Manicure", "price": "999" },
+        { "name": "Luxury Manicure", "price": "1,499" },
+        { "name": "Russian Manicure", "price": "1,799" },
+        { "name": "Cuticle Care", "price": "299" },
+        { "name": "Nail Shaping", "price": "199" },
+        { "name": "Buff & Shine", "price": "299" },
+        { "name": "Nail Repair (Per Nail)", "price": "199" },
+        { "name": "IBX Nail Treatment", "price": "799" }
+      ]
+    },
+    {
+      "title": "Add-ons",
+      "icon": "Plus",
+      "description": "Enhance your nail service with premium finishing touches.",
+      "items": [
+        { "name": "Chrome Powder", "price": "299" },
+        { "name": "Mirror Finish", "price": "299" },
+        { "name": "Rhinestones", "price": "199+" },
+        { "name": "Swarovski Crystals", "price": "499+" },
+        { "name": "Charms", "price": "399+" },
+        { "name": "Pearls", "price": "299+" },
+        { "name": "Gold Foil", "price": "299+" },
+        { "name": "Magnetic Cat Eye", "price": "399+" }
+      ]
+    },
+    {
+      "title": "Bridal Packages",
+      "icon": "Crown",
+      "description": "Exclusive bridal nail packages designed for your special day.",
+      "items": [
+        { "name": "Classic Bridal Package", "price": "3,999" },
+        { "name": "Luxury Bridal Package", "price": "5,999" },
+        { "name": "Premium Bridal Package", "price": "7,999" },
+        { "name": "Bride & Bridesmaid Package", "price": "8,999" },
+        { "name": "Engagement Nail Package", "price": "2,999" },
+        { "name": "Wedding Week Package", "price": "9,999" }
+      ]
+    }
+  ]
+}

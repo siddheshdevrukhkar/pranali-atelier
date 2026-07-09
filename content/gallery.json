@@ -1,0 +1,91 @@
+{
+  "eyebrow": "Gallery",
+  "title": "Beautiful Nail Transformations",
+  "description": "Every set is handcrafted with precision, creativity, and premium products to reflect your unique style.",
+  "images": [
+    {
+      "image": "/images/gallery/gallery-1.jpg",
+      "alt": "Luxury Nail Design 1",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "image": "/images/gallery/gallery-2.jpg",
+      "alt": "Luxury Nail Design 2",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "image": "/images/gallery/gallery-3.jpg",
+      "alt": "Luxury Nail Design 3",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "image": "/images/gallery/gallery-4.jpg",
+      "alt": "Luxury Nail Design 4",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "image": "/images/gallery/gallery-5.jpg",
+      "alt": "Luxury Nail Design 5",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "image": "/images/gallery/gallery-6.jpg",
+      "alt": "Luxury Nail Design 6",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "image": "/images/gallery/gallery-7.jpg",
+      "alt": "Luxury Nail Design 7",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "image": "/images/gallery/gallery-8.jpg",
+      "alt": "Luxury Nail Design 8",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "image": "/images/gallery/gallery-9.jpg",
+      "alt": "Luxury Nail Design 9",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "image": "/images/gallery/gallery-10.jpg",
+      "alt": "Luxury Nail Design 10",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "image": "/images/gallery/gallery-11.jpg",
+      "alt": "Luxury Nail Design 11",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "image": "/images/gallery/gallery-12.jpg",
+      "alt": "Luxury Nail Design 12",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "image": "/images/gallery/gallery-13.jpg",
+      "alt": "Luxury Nail Design 13",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "image": "/images/gallery/gallery-14.jpg",
+      "alt": "Luxury Nail Design 14",
+      "width": 1080,
+      "height": 1350
+    }
+  ]
+}

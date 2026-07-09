@@ -1,0 +1,37 @@
+{
+  "eyebrow": "Why Choose Us",
+  "title": "Experience Luxury Nail Care",
+  "description": "Every appointment is designed to provide exceptional quality, comfort, and lasting beauty using premium products and professional techniques.",
+  "items": [
+    {
+      "title": "Premium Products",
+      "description": "We use only high-quality, professional-grade products for long-lasting results.",
+      "icon": "Gem"
+    },
+    {
+      "title": "Hygienic Workspace",
+      "description": "All tools are sanitized and every workstation is cleaned after each client.",
+      "icon": "ShieldCheck"
+    },
+    {
+      "title": "Certified Nail Artist",
+      "description": "Skilled expertise with attention to detail and modern nail techniques.",
+      "icon": "Award"
+    },
+    {
+      "title": "Personalized Designs",
+      "description": "Every nail design is customized to match your personality and occasion.",
+      "icon": "Palette"
+    },
+    {
+      "title": "Comfortable Experience",
+      "description": "Relax in a calm, luxurious environment while enjoying your treatment.",
+      "icon": "HeartHandshake"
+    },
+    {
+      "title": "Long Lasting Results",
+      "description": "Beautiful nails that stay flawless for weeks with proper care.",
+      "icon": "Sparkles"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "eyebrow": "Testimonials",
+  "title": "Loved by Our Clients",
+  "description": "Nothing makes us happier than seeing our clients leave with confidence and beautiful nails. Here's what they have to say about their experience.",
+  "items": [
+    {
+      "name": "Priya Sharma",
+      "service": "Gel Nail Extensions",
+      "rating": 5,
+      "review": "Absolutely loved my nail extensions! The quality, hygiene, and attention to detail exceeded my expectations."
+    },
+    {
+      "name": "Sneha Patil",
+      "service": "Luxury Nail Art",
+      "rating": 5,
+      "review": "The nail art was exactly what I wanted. Beautiful designs, premium products, and such a relaxing experience."
+    },
+    {
+      "name": "Anjali Mehta",
+      "service": "Bridal Nails",
+      "rating": 5,
+      "review": "My bridal nails were flawless and lasted throughout all the wedding functions. Highly recommended!"
+    }
+  ]
+}

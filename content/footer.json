@@ -1,0 +1,41 @@
+{
+  "description": "Luxury nail studio specializing in elegant nail extensions, premium nail art, bridal nails, and personalized beauty experiences.",
+  "copyright": "© 2026 Pranali Atelier Studio. All rights reserved.",
+  "developer": {
+    "text": "Designed & Developed by",
+    "name": "Siddhesh Devrukhkar",
+    "website": "https://www.siddheshdevrukhkar.com"
+  },
+  "navigation": [
+    {
+      "label": "About",
+      "href": "#about"
+    },
+    {
+      "label": "Services",
+      "href": "#services"
+    },
+    {
+      "label": "Gallery",
+      "href": "#gallery"
+    },
+    {
+      "label": "Price List",
+      "href": "#pricelist"
+    },
+    {
+      "label": "Contact",
+      "href": "#contact"
+    }
+  ],
+  "social": [
+    {
+      "platform": "Instagram",
+      "url": "https://instagram.com/glamnails"
+    },
+    {
+      "platform": "WhatsApp",
+      "url": "https://wa.me/919876543210"
+    }
+  ]
+}
